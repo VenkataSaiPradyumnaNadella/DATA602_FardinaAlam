@@ -1,0 +1,10 @@
+I am fascinated by the power of data and it can help in drawing meaningful insight. I understood that data science is a combination of statistics and machine learning algorithms to make predictions and solve real-world problems. Through DATA602, I want to strengthen my understanding of the complete data science lifecycle starting with data collection to policy prediction. 
+In this course, I look forward to 
+Develop a foundational understanding of data science, encompassing key concepts, methodologies, and tools.
+Proficiently use Python for data science applications, including data types, collection, and manipulation using libraries like Pandas.
+Explore machine learning concepts, including classifications, decision trees, regression, and feature engineering.
+Evaluate machine learning models using appropriate metrics, ensuring a comprehensive understanding of model performance.
+Understand advanced topics such as neural networks.
+Understand the importance of applying ethical frameworks and guidelines to make informed decisions in real-world data scenarios.
+
+This course will help me build a strong foundation, and develop the skills needed to responsibly and effectively apply data science in various domains.
