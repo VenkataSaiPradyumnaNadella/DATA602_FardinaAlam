@@ -9,4 +9,4 @@
 - A pull request from main branch to merge dev into it
 
 ## Git Repo Page
-- Link to the repo page : 
+- Link to the repo page : https://nvspradyumna.github.io/DATA602_FardinaAlam
