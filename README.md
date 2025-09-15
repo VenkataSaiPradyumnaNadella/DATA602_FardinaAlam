@@ -10,3 +10,5 @@
 
 ## Git Repo Page
 - Link to the repo page : 
+- Link to current repo : https://github.com/nvspradyumna/DATA602_FardinaAlam
+- Link to Fardina Ma'am's repo : https://github.com/ffalam/DATA602_FardinaAlam
