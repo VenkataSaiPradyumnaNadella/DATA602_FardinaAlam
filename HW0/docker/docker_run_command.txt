@@ -1,0 +1,12 @@
+Ma'am
+docker run -it -v $(pwd)/project0:/home/jovyan/notebooks --rm -p 8888:8888 jmct/cmsc320
+Windows
+docker run -it -v %cd%\project0:/home/jovyan/notebooks --rm -p 8888:8888 jmct/cmsc320
+
+
+DockerContainer_File1.ipynb
+
+
+
+http://9de1e899a23a:8888/lab?token=70dc639e7125da87dbcb1cdba2d636f4dbc2135bd8ae71eb
+http://127.0.0.1:8888/lab?token=70dc639e7125da87dbcb1cdba2d636f4dbc2135bd8ae71eb
