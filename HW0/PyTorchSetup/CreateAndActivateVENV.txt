@@ -1,0 +1,9 @@
+create:
+python -m venv .venv
+
+activate:
+.venv\Scripts\activate
+
+pytorch installation command
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+
