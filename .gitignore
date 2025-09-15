@@ -1,1 +1,5 @@
+# Ignore data.DAT file as required
 data.DAT
+
+# Ignore virtual environment folder from PyTorchSetup Folder
+HW0\PyTorchSetup\.venv\
